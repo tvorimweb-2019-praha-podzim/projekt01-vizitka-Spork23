@@ -1,8 +1,35 @@
-p {}
-html { text-align: center;
-    font-family: 'Merriweather', serif;
+
+html { 
+    font-family: 'Mansalva', cursive;
+    font-size: 22px;
 }
-div {background-color: blanchedalmond;
-padding: 0;}
-.koniec {background-color: rgb(185, 202, 233)}
-.body {margin: 0}
+.koniec {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(185, 202, 233);
+}
+.obsah {
+    background-color: blanchedalmond;
+    padding: 50px 130px 50px 130px;
+}
+
+body {
+    margin: 0;
+    }
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    margin: auto;
+}
+
+.Ja-Paulina {
+    width: 32%;
+}
+
+.Ja-Paulina-wrapper {text-align: center;}
+
+.nadpis {
+    padding: 10px;
+    background-color: rgb(235, 182, 67);}
