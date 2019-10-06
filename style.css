@@ -7,8 +7,10 @@ html {
     margin: 0;
     padding: 10px;
     text-align: center;
-    background-color: rgb(185, 202, 233);
-}
+    }
+
+.koniec_background {background-color: rgb(185, 202, 233)}
+
 .obsah {
     background-color: blanchedalmond;
     padding: 50px 130px 50px 130px;
@@ -33,3 +35,17 @@ h1 {
 .nadpis {
     padding: 10px;
     background-color: rgb(235, 182, 67);}
+
+.Menu {
+list-style: none;
+margin: 0 auto;
+}   
+
+li{
+    display: inline-block;
+    padding: 15px 50px;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+
